@@ -1,0 +1,75 @@
+---
+layout: default
+title: IPTV Server France Streaming url Links
+description: "New IPTV Server France Streaming url Links"
+date: 2017-01-30  +01:00
+categories: iptv
+author: iamin@endoce12.tk
+---
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-70394969-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+#EXTM3U
+#EXTINF:-1,FR CANAL  SPORT
+http://46.105.115.37:8000/live/iptv1790/179065287/535.ts
+#EXTINF:-1,FR TMC
+http://46.105.115.37:8000/live/iptv1790/179065287/273.ts
+#EXTINF:-1,FR Syfy
+http://46.105.115.37:8000/live/iptv1790/179065287/274.ts
+#EXTINF:-1,FR NRJ 12
+http://46.105.115.37:8000/live/iptv1790/179065287/275.ts
+#EXTINF:-1,FR France O
+http://46.105.115.37:8000/live/iptv1790/179065287/276.ts
+#EXTINF:-1,FR France 2
+http://46.105.115.37:8000/live/iptv1790/179065287/280.ts
+#EXTINF:-1,FR France 3
+http://46.105.115.37:8000/live/iptv1790/179065287/279.ts
+#EXTINF:-1,FR France 4
+http://46.105.115.37:8000/live/iptv1790/179065287/278.ts
+#EXTINF:-1,FR France 5
+http://46.105.115.37:8000/live/iptv1790/179065287/277.ts
+#EXTINF:-1,FR Eurosport 1
+http://46.105.115.37:8000/live/iptv1790/179065287/282.ts
+#EXTINF:-1,FR Eurosport 2
+http://46.105.115.37:8000/live/iptv1790/179065287/281.ts
+#EXTINF:-1,FR Cine Frisson
+http://46.105.115.37:8000/live/iptv1790/179065287/284.ts
+#EXTINF:-1,FR Cine  Premier
+http://46.105.115.37:8000/live/iptv1790/179065287/285.ts
+#EXTINF:-1,FR CANAL+
+http://46.105.115.37:8000/live/iptv1790/179065287/262.ts
+#EXTINF:-1,FR Canal  Cinema
+http://46.105.115.37:8000/live/iptv1790/179065287/287.ts
+#EXTINF:-1,FR: CANAL+ DECALE
+http://46.105.115.37:8000/live/iptv1790/179065287/751.ts
+#EXTINF:-1,FR CANAL SERIE
+http://46.105.115.37:8000/live/iptv1790/179065287/752.ts
+#EXTINF:-1,FR BFMTV
+http://46.105.115.37:8000/live/iptv1790/179065287/288.ts
+#EXTINF:-1,FR Bein Sport 1
+http://46.105.115.37:8000/live/iptv1790/179065287/290.ts
+#EXTINF:-1,FR Bein Sport 2
+http://46.105.115.37:8000/live/iptv1790/179065287/289.ts
+#EXTINF:-1,FR Bein Sport 3
+http://46.105.115.37:8000/live/iptv1790/179065287/717.ts
+#EXTINF:-1,FR Arte
+http://46.105.115.37:8000/live/iptv1790/179065287/291.ts
+#EXTINF:-1,FR: TF1 HD
+http://46.105.115.37:8000/live/iptv1790/179065287/271.ts
+#EXTINF:-1,FR: M6 HD
+http://46.105.115.37:8000/live/iptv1790/179065287/272.ts
+#EXTINF:-1,FR Chasse e Peche
+http://46.105.115.37:8000/live/iptv1790/179065287/720.ts
+#EXTINF:-1,CINE+CLASSIC
+http://46.105.115.37:8000/live/iptv1790/179065287/263.ts
+#EXTINF:-1,Cartoon Network
+http://46.105.115.37:8000/live/iptv1790/179065287/265.ts
+{% endhighlight %}
+<a href="/lists/IPTV-Server-France-Streaming-url-Links.m3u"><center><img src="/img/download-logo.png" width="160"></center></a>

@@ -1,0 +1,805 @@
+#EXTM3U
+#EXTINF:-1,TF1 Full HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/661.ts
+#EXTINF:-1,TF1
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/1.ts
+#EXTINF:-1,France 2 Full HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/662.ts
+#EXTINF:-1,France_2
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/24.ts
+#EXTINF:-1,France_3
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/23.ts
+#EXTINF:-1,France 4 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/669.ts
+#EXTINF:-1,France_4
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/21.ts
+#EXTINF:-1,France 5 Full HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/664.ts
+#EXTINF:-1,France_5
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/22.ts
+#EXTINF:-1,France_Ô
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/20.ts
+#EXTINF:-1,M6 Full HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/666.ts
+#EXTINF:-1,M6
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/2.ts
+#EXTINF:-1,RTL9
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/68.ts
+#EXTINF:-1,TMC Full HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/665.ts
+#EXTINF:-1,TMC
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/11.ts
+#EXTINF:-1,PARIS_PREMIERE_HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/31.ts
+#EXTINF:-1,Comédie
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/66.ts
+#EXTINF:-1,AB1 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/431.ts
+#EXTINF:-1,TV breizh
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/438.ts
+#EXTINF:-1,TV5_MONDE
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/465.ts
+#EXTINF:-1,NT1 Full HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/659.ts
+#EXTINF:-1,NT1
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/12.ts
+#EXTINF:-1,W9 Full HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/660.ts
+#EXTINF:-1,W9
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/3.ts
+#EXTINF:-1,D8
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/19.ts
+#EXTINF:-1,D17
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/18.ts
+#EXTINF:-1,Téva
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/61.ts
+#EXTINF:-1,NRJ12 Full HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/668.ts
+#EXTINF:-1,NRJ12
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/10.ts
+#EXTINF:-1,HD1 Full HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/670.ts
+#EXTINF:-1,HD1
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/8.ts
+#EXTINF:-1,6ter Full HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/672.ts
+#EXTINF:-1,6ter_HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/7.ts
+#EXTINF:-1,Numero_23
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/443.ts
+#EXTINF:-1,Chérie_25
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/515.ts
+#EXTINF:-1,TF1 -6
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/512.ts
+#EXTINF:-1,M6 -6
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/514.ts
+#EXTINF:-1,W9_DECALE-6
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/540.ts
+#EXTINF:-1,FRANCE2_DECALE-6
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/536.ts
+#EXTINF:-1,FRANCE3_DECALE-6
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/537.ts
+#EXTINF:-1,FRANCE4_DECALE-6
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/538.ts
+#EXTINF:-1,D8_DECALE-6
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/539.ts
+#EXTINF:-1,CANAL+_DECALE-6
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/542.ts
+#EXTINF:-1,NRJ12_DECALE-6
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/541.ts
+#EXTINF:-1,TF1_DECALE-9
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/488.ts
+#EXTINF:-1,M6_DECALE-9
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/519.ts
+#EXTINF:-1,W9_DECALE-9
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/521.ts
+#EXTINF:-1,NRJ12_DECALE-9
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/522.ts
+#EXTINF:-1,FRANCE2_DECALE-9
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/516.ts
+#EXTINF:-1,FRANCE3_DECALE-9
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/517.ts
+#EXTINF:-1,FRANCE4_DECALE-9
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/518.ts
+#EXTINF:-1,D8_DECALE-9
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/520.ts
+#EXTINF:-1,CANAL+_DECALE-9
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/523.ts
+#EXTINF:-1,SFR SPORT 1 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/530.ts
+#EXTINF:-1,SFR SPORT 2 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/531.ts
+#EXTINF:-1,SFR SPORT 3 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/532.ts
+#EXTINF:-1,SFR SPORT 5 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/624.ts
+#EXTINF:-1,Canal+_Sport
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/26.ts
+#EXTINF:-1,GOLF+_HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/629.ts
+#EXTINF:-1,Eurosport_HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/50.ts
+#EXTINF:-1,EUROSPORT2_FR
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/489.ts
+#EXTINF:-1,Infosport
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/441.ts
+#EXTINF:-1,L&#039;Equipe 21 Full HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/671.ts
+#EXTINF:-1,L&#039;équipe_21
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/13.ts
+#EXTINF:-1,Foot+ 24/24
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/100.ts
+#EXTINF:-1,Motors_TV
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/437.ts
+#EXTINF:-1,Equidia_ Live
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/54.ts
+#EXTINF:-1,E! Entertainment
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/644.ts
+#EXTINF:-1,Ciné_Premier
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/48.ts
+#EXTINF:-1,Ciné Emotion
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/434.ts
+#EXTINF:-1,Ciné_Frisson
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/49.ts
+#EXTINF:-1,Ciné Famiz
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/433.ts
+#EXTINF:-1,Série_Club
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/60.ts
+#EXTINF:-1,Polar
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/64.ts
+#EXTINF:-1,Action
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/91.ts
+#EXTINF:-1,TCM CINEMA
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/620.ts
+#EXTINF:-1,Ciné_FX
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/67.ts
+#EXTINF:-1,SYFY_HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/32.ts
+#EXTINF:-1,13ème_Rue
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/65.ts
+#EXTINF:-1,FR:PARAMOUNT HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/450.ts
+#EXTINF:-1,OCS_MAX_HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/432.ts
+#EXTINF:-1,OCS_GEANTS_HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/36.ts
+#EXTINF:-1,OCS_CHOC_HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/34.ts
+#EXTINF:-1,M6 Music
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/325.ts
+#EXTINF:-1,MTV
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/97.ts
+#EXTINF:-1,MTV-BASE
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/99.ts
+#EXTINF:-1,MTV-PULSE
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/98.ts
+#EXTINF:-1,Disney_Channel
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/51.ts
+#EXTINF:-1,Disney_Junior
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/47.ts
+#EXTINF:-1,DISNEY XD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/525.ts
+#EXTINF:-1,DISNEY CINEMA
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/526.ts
+#EXTINF:-1,Boomerang
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/92.ts
+#EXTINF:-1,Cartoon_Network
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/93.ts
+#EXTINF:-1,Nickelodeon Junior
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/449.ts
+#EXTINF:-1,TELETOON +1
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/504.ts
+#EXTINF:-1,Gulli
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/4.ts
+#EXTINF:-1,TIJI
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/534.ts
+#EXTINF:-1,PIWI
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/533.ts
+#EXTINF:-1,Mangas
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/70.ts
+#EXTINF:-1,Game_One
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/447.ts
+#EXTINF:-1,USHUAIA
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/96.ts
+#EXTINF:-1,National_Geo
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/58.ts
+#EXTINF:-1,National_Geo_Wild
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/59.ts
+#EXTINF:-1,PLANET+
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/95.ts
+#EXTINF:-1,Planet+ A&amp;E
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/435.ts
+#EXTINF:-1,Planet+ CI
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/436.ts
+#EXTINF:-1,Discovery_Channel
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/56.ts
+#EXTINF:-1,Discovery_Science
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/415.ts
+#EXTINF:-1,Trek
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/645.ts
+#EXTINF:-1,Sciences_&amp;_Vie
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/52.ts
+#EXTINF:-1,Voyage HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/439.ts
+#EXTINF:-1,Chasse_&amp;_Pêche
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/62.ts
+#EXTINF:-1,Animaux
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/414.ts
+#EXTINF:-1,ARTE Full HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/667.ts
+#EXTINF:-1,Arte FR
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/440.ts
+#EXTINF:-1,Histoire
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/57.ts
+#EXTINF:-1,RMC_Découverte
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/17.ts
+#EXTINF:-1,iTELE
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/9.ts
+#EXTINF:-1,Euronews_Fr
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/14.ts
+#EXTINF:-1,France 24
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/552.ts
+#EXTINF:-1,BFM_Tv
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/16.ts
+#EXTINF:-1,BFM_Tv_Business
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/15.ts
+#EXTINF:-1,I24
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/30.ts
+#EXTINF:-1,Canal+
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/25.ts
+#EXTINF:-1,Canal+_Décalé
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/46.ts
+#EXTINF:-1,Canal+_Cinema
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/27.ts
+#EXTINF:-1,Canal+_Family
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/29.ts
+#EXTINF:-1,Canal+_Series
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/28.ts
+#EXTINF:-1,CANALPLAY-1
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/101.ts
+#EXTINF:-1,CANALPLAY-2
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/102.ts
+#EXTINF:-1,CANALPLAY-3
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/103.ts
+#EXTINF:-1,CANALPLAY-4
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/104.ts
+#EXTINF:-1,CANALPLAY-5
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/105.ts
+#EXTINF:-1,CANALPLAY-6
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/106.ts
+#EXTINF:-1,CANALPLAY-7
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/107.ts
+#EXTINF:-1,CANALPLAY-8
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/108.ts
+#EXTINF:-1,CANALPLAY-9
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/109.ts
+#EXTINF:-1,CANALPLAY-10
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/110.ts
+#EXTINF:-1,RTS_Un
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/6.ts
+#EXTINF:-1,RTS_Deux
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/5.ts
+#EXTINF:-1,BE:LA_UNE
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/215.ts
+#EXTINF:-1,BE:LA_DEUX
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/216.ts
+#EXTINF:-1,BE:La_Trois
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/217.ts
+#EXTINF:-1,BE:CLUB_RTL
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/513.ts
+#EXTINF:-1,BE: RTL TVI
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/323.ts
+#EXTINF:-1,RTL LU
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/77.ts
+#EXTINF:-1,Plug RTL
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/326.ts
+#EXTINF:-1,Bein_Sport_3_Fr
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/45.ts
+#EXTINF:-1,Bein_Sport_2_Fr
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/44.ts
+#EXTINF:-1,Bein_Sport_1_Fr
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/43.ts
+#EXTINF:-1,Bein Sports Max 1
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/801.ts
+#EXTINF:-1,Bein Sports Max 2
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/802.ts
+#EXTINF:-1,AR: beIN Sports 1 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/78.ts
+#EXTINF:-1,AR: bEIN Sports 2 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/79.ts
+#EXTINF:-1,AR: BEIN-sport 3 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/80.ts
+#EXTINF:-1,AR: BEIN-sport 4 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/81.ts
+#EXTINF:-1,AR: BEIN-sport 5 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/82.ts
+#EXTINF:-1,AR: BEIN-sport 6 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/83.ts
+#EXTINF:-1,AR: BEIN- sport 7 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/84.ts
+#EXTINF:-1,AR: BEIN Sports 8 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/85.ts
+#EXTINF:-1,AR: BEIN Sports 9 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/86.ts
+#EXTINF:-1,AR: beIN Sports 10 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/87.ts
+#EXTINF:-1,AR: BEIN Sports 11 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/471.ts
+#EXTINF:-1,AR_BEIN SPORTS 12 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/424.ts
+#EXTINF:-1,AR: beIN Sports 13 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/418.ts
+#EXTINF:-1,AR: beIN Sports 14 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/419.ts
+#EXTINF:-1,AR: beIN Sports 15 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/420.ts
+#EXTINF:-1,##### VOD #####
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/211.ts
+#EXTINF:-1,L&#039;âge de glace : les lois de l&#039;Univers
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/839.mkv
+#EXTINF:-1,Les Nouvelles aventures d&#039;Aladin
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/831.mkv
+#EXTINF:-1,Assassin&#039;s Creed
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/822.mkv
+#EXTINF:-1,PREMIER CONTACT
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/821.mkv
+#EXTINF:-1,Annabelle
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/820.mkv
+#EXTINF:-1,Ip Man
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/707.mkv
+#EXTINF:-1,Ip Man 2
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/708.mkv
+#EXTINF:-1,Ip Man 3
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/709.mkv
+#EXTINF:-1,Judgment Night
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/713.mkv
+#EXTINF:-1,X-men
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/457.mkv
+#EXTINF:-1,X-Men 2
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/702.mkv
+#EXTINF:-1,X-Men 2000
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/703.mkv
+#EXTINF:-1,X-Men : L&#039;Affrontement final
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/704.mkv
+#EXTINF:-1,X-Men : Le Commencement
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/705.mkv
+#EXTINF:-1,X-Men Origins: Wolverine
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/706.mkv
+#EXTINF:-1,Star Wars Episode VII
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/687.mkv
+#EXTINF:-1,Sully
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/688.mp4
+#EXTINF:-1,Now You See Me (Insaisissables 2)
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/686.mkv
+#EXTINF:-1,The last rescue
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/701.mkv
+#EXTINF:-1,Pixels (2015)
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/693.mkv
+#EXTINF:-1,Mr. &amp; Mrs. Smith (2005)
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/697.mkv
+#EXTINF:-1,LA SORCIÈRE BLANCHE ET L&#039;ARMOIRE MAGIQUE
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/710.mkv
+#EXTINF:-1,LE MONDE DE NARNIA : CHAPITRE 2 - LE PRINCE CASPIAN
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/711.mkv
+#EXTINF:-1,LE MONDE DE NARNIA : L&#039;ODYSSÉE DU PASSEUR D&#039;AURORE
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/712.mkv
+#EXTINF:-1,Harry Potter 1 a l&#039;ecole des sorciers 2001
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/776.mkv
+#EXTINF:-1,Harry Potter 2 et la Chambre des Secrets
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/777.mkv
+#EXTINF:-1,Harry Potter 3 et le Prisonnier d&#039;Azkaban
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/778.mkv
+#EXTINF:-1,Harry Potter 4 et la coupe de feu
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/779.mkv
+#EXTINF:-1,Harry Potter 5 et l&#039;Ordre du phenix
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/780.mkv
+#EXTINF:-1,Harry Potter 6 et le Prince de sang-mélé
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/781.mkv
+#EXTINF:-1,Harry Potter 7 et les Reliques de la mort partie 1
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/782.mkv
+#EXTINF:-1,Harry Potter 7 et les Reliques de la mort partie 2
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/783.mkv
+#EXTINF:-1,Ted I
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/717.mkv
+#EXTINF:-1,Ted II
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/718.mkv
+#EXTINF:-1,Nest of Spies (2006)
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/698.mkv
+#EXTINF:-1,OSS 117: Lost in Rio (2009)
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/699.mkv
+#EXTINF:-1,Independence Day 1996
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/695.mkv
+#EXTINF:-1,Independence Day : Resurgence
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/767.mkv
+#EXTINF:-1,Dark Places
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/694.mkv
+#EXTINF:-1,Chosen (2016)
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/700.mkv
+#EXTINF:-1,Batman Begins (2005)
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/692.mkv
+#EXTINF:-1,Kickboxer: Vengeance (2016)
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/696.mkv
+#EXTINF:-1,Alice De l&#039;Autre Coté Du Mirroir
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/626.mkv
+#EXTINF:-1,Batman v Superman: Dawn of Justice
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/627.mp4
+#EXTINF:-1,Blood Father
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/684.mkv
+#EXTINF:-1,Captain America: Civil War
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/625.mkv
+#EXTINF:-1,Central Intelligence
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/628.mkv
+#EXTINF:-1,Max et Lenny
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/683.mkv
+#EXTINF:-1,Skiptrace
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/685.mkv
+#EXTINF:-1,Triple 9 - 2016
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/486.mkv
+#EXTINF:-1,I Am Wrath - 2016
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/485.mkv
+#EXTINF:-1,The Nice Guys
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/716.mkv
+#EXTINF:-1,Benjamin Gates et le Livre des Secrets
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/715.mkv
+#EXTINF:-1,Benjamin Gates et le Trésor des Templiers
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/714.mkv
+#EXTINF:-1,Fast And Furious 6 - 2013
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/470.mkv
+#EXTINF:-1,Fast and Furious 7
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/487.mkv
+#EXTINF:-1,Fast And Furious 7 extended - 2015
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/468.mkv
+#EXTINF:-1,Crouching Tiger Hidden Dragon Sword of Destiny - 2016
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/484.mkv
+#EXTINF:-1,Code Of Honor - 2016
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/483.mkv
+#EXTINF:-1,Cats And Dogs The Revenge Of Kitty Galore 2010
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/464.mkv
+#EXTINF:-1,Matrix 1 1999
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/764.mkv
+#EXTINF:-1,Matrix 2 Reloaded
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/765.mkv
+#EXTINF:-1,Matrix 3 Revolutions
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/766.mkv
+#EXTINF:-1,Le Seigneur des anneaux 2001 La communauté de l&#039;anneau
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/784.mkv
+#EXTINF:-1,Le Seigneur des anneaux 2002 Les deux tours
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/785.mkv
+#EXTINF:-1,Le Seigneur des anneaux 2003 Le retour du roi
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/786.mkv
+#EXTINF:-1,Transformers
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/451.mkv
+#EXTINF:-1,Transformers 2 la revanche
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/452.mkv
+#EXTINF:-1,Transformers : l&#039;âge de l&#039;extinction
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/453.mkv
+#EXTINF:-1,Transformers 3: la face cachée de la lune
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/454.mkv
+#EXTINF:-1,London Has Fallen
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/458.mkv
+#EXTINF:-1,Zoolander 2001
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/461.mkv
+#EXTINF:-1,The Last Witch Hunter
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/456.mkv
+#EXTINF:-1,The Imitation Game - 2014
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/460.mkv
+#EXTINF:-1,La planète Des Singes - L&#039;Affrontement 2015
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/459.mkv
+#EXTINF:-1,Fantastic Four 2015
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/463.mkv
+#EXTINF:-1,Blood Ties 2013
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/462.mkv
+#EXTINF:-1,In The Heart Of The Sea
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/455.mkv
+#EXTINF:-1,Le Prodige 2014
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/446.mp4
+#EXTINF:-1,Whiskey Tango Foxtrot 2016
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/207.mkv
+#EXTINF:-1,The Huntsman Winters War 2016
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/206.mp4
+#EXTINF:-1,Warcraft : le Commencement
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/791.mkv
+#EXTINF:-1,The Eichmann Show 2015
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/205.mkv
+#EXTINF:-1,The Demons 2015
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/204.mp4
+#EXTINF:-1,My Big Fat Greek Wedding 2 2016
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/203.mkv
+#EXTINF:-1,Max et Lenny 2014
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/202.mp4
+#EXTINF:-1,Kung Fu Panda 3 2016
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/201.mkv
+#EXTINF:-1,Josephine S Arrondit 2016
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/200.mkv
+#EXTINF:-1,Hush 2016
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/199.avi
+#EXTINF:-1,Heidi 2015
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/198.mkv
+#EXTINF:-1,Et Ta Soeur 2015
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/197.mp4
+#EXTINF:-1,Belgica 2016
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/111.mp4
+#EXTINF:-1,Les Gardiens de la Galaxie 2014
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/214.mkv
+#EXTINF:-1,The Shamer
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/800.mkv
+#EXTINF:-1,The Revenant
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/799.mkv
+#EXTINF:-1,007 Spectre
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/798.mkv
+#EXTINF:-1,Seul contre tous
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/797.mkv
+#EXTINF:-1,Ninja Turtles
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/796.mkv
+#EXTINF:-1,Mission Impossible : Rogue Nation
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/795.mkv
+#EXTINF:-1,Cinquante Nuances de Grey
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/793.mkv
+#EXTINF:-1,Joy
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/794.mkv
+#EXTINF:-1,American Sniper
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/792.mkv
+#EXTINF:-1,Le Voyage d&#039;Arlo
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/790.mkv
+#EXTINF:-1,Suicide Squad
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/789.mkv
+#EXTINF:-1,Bad Moms
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/788.mkv
+#EXTINF:-1,13 Hours
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/787.mkv
+#EXTINF:-1,LA LIGNE VERTE
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/841.mkv
+#EXTINF:-1,Les Animaux Fantastiques
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/825.mkv
+#EXTINF:-1,Les Trolls
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/838.mkv
+#EXTINF:-1,EXPLORER
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/840.mkv
+#EXTINF:-1,Bounds Of Silk
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/823.mkv
+#EXTINF:-1,A LA CROISÉE DES MONDES : LA BOUSSOLE D&#039;OR
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/837.mkv
+#EXTINF:-1,15 ANS DE TERREUR : AL QAIDA:LA TERREUR MONDIALISEE
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/842.mkv
+#EXTINF:-1,##### Person of interest S03 #####
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/818.ts
+#EXTINF:-1,Person of Interest S03E01
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/741.mkv
+#EXTINF:-1,Person of Interest S03E02
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/719.mkv
+#EXTINF:-1,Person of Interest S03E03
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/720.mkv
+#EXTINF:-1,Person of Interest S03E04
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/721.mkv
+#EXTINF:-1,Person of Interest S03E05
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/722.mkv
+#EXTINF:-1,Person of Interest S03E06
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/723.mkv
+#EXTINF:-1,Person of Interest S03E07
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/724.mkv
+#EXTINF:-1,Person of Interest S03E08
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/725.mkv
+#EXTINF:-1,Person of Interest S03E09
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/726.mkv
+#EXTINF:-1,Person of Interest S03E10
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/727.mkv
+#EXTINF:-1,Person of Interest S03E11
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/728.mkv
+#EXTINF:-1,Person of Interest S03E12
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/729.mkv
+#EXTINF:-1,Person of Interest S03E13
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/730.mkv
+#EXTINF:-1,Person of Interest S03E14
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/731.mkv
+#EXTINF:-1,Person of Interest S03E15
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/732.mkv
+#EXTINF:-1,Person of Interest S03E16
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/733.mkv
+#EXTINF:-1,Person of Interest S03E17
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/734.mkv
+#EXTINF:-1,Person of Interest S03E18
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/735.mkv
+#EXTINF:-1,Person of Interest S03E19
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/736.mkv
+#EXTINF:-1,Person of Interest S03E20
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/737.mkv
+#EXTINF:-1,Person of Interest S03E21
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/738.mkv
+#EXTINF:-1,Person of Interest S03E22
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/739.mkv
+#EXTINF:-1,Person of Interest S03E23
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/740.mkv
+#EXTINF:-1,##### Person of interest S04 #####
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/819.ts
+#EXTINF:-1,Person of Interest S04E01
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/742.mkv
+#EXTINF:-1,Person of Interest S04E02
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/743.mkv
+#EXTINF:-1,Person of Interest S04E03
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/744.mkv
+#EXTINF:-1,Person of Interest S04E04
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/745.mkv
+#EXTINF:-1,Person of Interest S04E05
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/746.mkv
+#EXTINF:-1,Person of Interest S04E06
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/747.mkv
+#EXTINF:-1,Person of Interest S04E07
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/748.mkv
+#EXTINF:-1,Person of Interest S04E08
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/749.mkv
+#EXTINF:-1,Person of Interest S04E09
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/750.mkv
+#EXTINF:-1,Person of Interest S04E10
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/751.mkv
+#EXTINF:-1,Person of Interest S04E11
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/752.mkv
+#EXTINF:-1,Person of Interest S04E12
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/753.mkv
+#EXTINF:-1,Person of Interest S04E13
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/754.mkv
+#EXTINF:-1,Person of Interest S04E14
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/755.mkv
+#EXTINF:-1,Person of Interest S04E15
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/756.mkv
+#EXTINF:-1,Person of Interest S04E16
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/757.mkv
+#EXTINF:-1,Person of Interest S04E17
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/758.mkv
+#EXTINF:-1,Person of Interest S04E18
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/759.mkv
+#EXTINF:-1,Person of Interest S04E19
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/760.mkv
+#EXTINF:-1,Person of Interest S04E20
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/761.mkv
+#EXTINF:-1,Person of Interest S04E21
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/762.mkv
+#EXTINF:-1,Person of Interest S04E22
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/763.mkv
+#EXTINF:-1,##### The Walking Dead S05 #####
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/417.ts
+#EXTINF:-1,The Walking Dead S05E01
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/329.avi
+#EXTINF:-1,The Walking Dead S05E02
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/330.avi
+#EXTINF:-1,The Walking Dead S05E03
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/331.avi
+#EXTINF:-1,The Walking Dead S05E04
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/332.avi
+#EXTINF:-1,The Walking Dead S05E05
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/333.avi
+#EXTINF:-1,The Walking Dead S05E06
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/334.avi
+#EXTINF:-1,The Walking Dead S05E07
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/335.avi
+#EXTINF:-1,The Walking Dead S05E08
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/336.avi
+#EXTINF:-1,The Walking Dead S05E09
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/337.avi
+#EXTINF:-1,The Walking Dead S05E10
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/338.avi
+#EXTINF:-1,The Walking Dead S05E11
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/339.avi
+#EXTINF:-1,The Walking Dead S05E12
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/340.avi
+#EXTINF:-1,The Walking Dead S05E13
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/341.avi
+#EXTINF:-1,The Walking Dead S05E14
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/342.avi
+#EXTINF:-1,The Walking Dead S05E15
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/327.avi
+#EXTINF:-1,The Walking Dead S05E16
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/328.avi
+#EXTINF:-1,##### The Walking Dead S06 #####
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/324.ts
+#EXTINF:-1,The Walking Dead S06E01
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/307.avi
+#EXTINF:-1,The Walking Dead S06E02
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/308.avi
+#EXTINF:-1,The Walking Dead S06E03
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/309.avi
+#EXTINF:-1,The Walking Dead S06E04
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/310.avi
+#EXTINF:-1,The Walking Dead S06E05
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/311.avi
+#EXTINF:-1,The Walking Dead S06E06
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/312.avi
+#EXTINF:-1,The Walking Dead S06E07
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/313.avi
+#EXTINF:-1,The Walking Dead S06E08
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/314.avi
+#EXTINF:-1,The Walking Dead S06E09
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/315.avi
+#EXTINF:-1,The Walking Dead S06E10
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/316.avi
+#EXTINF:-1,The Walking Dead S06E11
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/317.avi
+#EXTINF:-1,The Walking Dead S06E12
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/318.avi
+#EXTINF:-1,The Walking Dead S06E13 VOSTFR
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/319.avi
+#EXTINF:-1,The Walking Dead S06E14 VOSTFR
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/320.avi
+#EXTINF:-1,The Walking Dead S06E15 VOSTFR
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/321.avi
+#EXTINF:-1,The Walking Dead S06E16 FiNAL
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/322.avi
+#EXTINF:-1,##### The Mentalist S07 #####
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/416.ts
+#EXTINF:-1,The Mentalist S07E01
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/352.avi
+#EXTINF:-1,The Mentalist S07E02
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/353.avi
+#EXTINF:-1,The Mentalist S07E03
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/354.avi
+#EXTINF:-1,The Mentalist S07E04
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/355.avi
+#EXTINF:-1,The Mentalist S07E05
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/343.avi
+#EXTINF:-1,The Mentalist S07E06
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/344.avi
+#EXTINF:-1,The Mentalist S07E07
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/345.avi
+#EXTINF:-1,ist S07E08
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/346.avi
+#EXTINF:-1,The Mentalist S07E09
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/347.avi
+#EXTINF:-1,The Mentalist S07E10
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/348.avi
+#EXTINF:-1,The Mentalist S07E11
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/349.avi
+#EXTINF:-1,The Mentalist S07E12
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/350.avi
+#EXTINF:-1,The Mentalist S07E13
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/351.avi
+#EXTINF:-1,|XL| HOT CLUB 2 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/491.ts
+#EXTINF:-1,|XL| HOT CLUB 3 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/492.ts
+#EXTINF:-1,|XL| HOT CLUB 4 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/493.ts
+#EXTINF:-1,|XL| HOT CLUB 5 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/494.ts
+#EXTINF:-1,|XL| HOT CLUB 6 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/495.ts
+#EXTINF:-1,|XL| HOT CLUB 7 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/496.ts
+#EXTINF:-1,|XL| HOT CLUB 9 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/497.ts
+#EXTINF:-1,|XL| HOT CLUB 10 HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/498.ts
+#EXTINF:-1,XXX: Hustler HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/524.ts
+#EXTINF:-1,XXX:REDLIGHT HD
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/425.ts
+#EXTINF:-1,XXX: DORCEL
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/428.ts
+#EXTINF:-1,XXX: Playy 19+
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/427.ts
+#EXTINF:-1,XXX: Playboy
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/426.ts
+#EXTINF:-1,XXX: Hot
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/429.ts
+#EXTINF:-1,XXX: Maden Holland
+http://176.31.235.163:8000/live/TbiFj5RZhE/CHKbd6097N/430.ts
+#EXTINF:-1,VOD XXX 1
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/472.mp4
+#EXTINF:-1,VOD XXX 2
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/473.mp4
+#EXTINF:-1,VOD XXX 3
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/474.mp4
+#EXTINF:-1,VOD XXX 4
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/475.mp4
+#EXTINF:-1,VOD XXX 5
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/476.mp4
+#EXTINF:-1,VOD XXX 6
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/477.mp4
+#EXTINF:-1,VOD XXX 7
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/478.mp4
+#EXTINF:-1,VOD XXX 8
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/479.mp4
+#EXTINF:-1,VOD XXX 9
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/480.mp4
+#EXTINF:-1,VOD XXX 10
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/481.mp4
+#EXTINF:-1,VOD XXX 11
+http://176.31.235.163:8000/movie/TbiFj5RZhE/CHKbd6097N/482.mp4

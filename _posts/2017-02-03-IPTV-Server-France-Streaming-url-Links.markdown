@@ -2,7 +2,7 @@
 layout: default
 title: IPTV Server France Streaming url Links
 description: "New IPTV Server France Streaming url Links"
-date: 2017-01-30  +01:00
+date: 2017-02-30 12:02:50 +01:00
 categories: iptv
 author: iamin@endoce12.tk
 ---
@@ -16,6 +16,8 @@ author: iamin@endoce12.tk
   ga('send', 'pageview');
 
 </script>
+### IPTV Server France Streaming url Links
+{% highlight m3u %}
 #EXTM3U
 #EXTINF:-1,FR CANAL  SPORT
 http://46.105.115.37:8000/live/iptv1790/179065287/535.ts

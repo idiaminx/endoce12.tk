@@ -16,7 +16,7 @@ author: iamin@endoce12.tk
   ga('send', 'pageview');
 
 </script>
-### IPTV beIN SPORT Full Hd Streaming Url Links
+### <img src="/img/estrella.svg" style="margin-bottom:5px;" width="30px">IPTV beIN SPORT Full Hd Streaming Url Links
 
 {% highlight m3u %}
 #EXTM3U

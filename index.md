@@ -10,7 +10,7 @@
 		      <tr>
 			<td width="21" background="images/21210212120.png"></td>
 			<td>
-<div id="media"><embed type="application/x-vlc-plugin" pluginspage="http://www.videolan.org" id="vlc" controls="true" target="http://goatdee.net/186184" width="432" height="288"><!--http://198.16.76.122:8000/87/E5UCUP4B6G6JMMMU http://198.16.76.122:8000/87/NGHLJUXL6VERYLEC -->
+<div id="media"><script type="text/javascript"> id="27363"; ew="600"; eh="380";</script><script type="text/javascript" src="http://www.castalba.tv/js/embed.js"></script>
                                                 </div></td>
                         <td width="21" background="images/203233451.png"></td>
                      </tr>
@@ -25,4 +25,4 @@
 
 					
 				</center>
-<iframe scrolling="no" allowtransparency="true" src="http://goatdee.net/186184" width="600" height="380" frameborder="0"></iframe>
+

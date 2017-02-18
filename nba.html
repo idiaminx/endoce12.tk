@@ -1,10 +1,9 @@
 ---
 layout: default
 ---
-
 <table border="0" width="100%" cellspacing="0" cellpadding="2" class="eBlock">
  <tbody><tr><td class="eText" colspan="2">
- <center><span style="font-size: 10pt; font-weight: bold; ">ESPN 2 </span><img src="/img/espn2.png" width="60"><br><br>
+ <center><span style="font-size: 10pt; font-weight: bold; ">NBA TV</span><img src="/img/nba.png" width="60"><br><br>
  <table border="0" cellpadding="0" cellspacing="0"> 
  <tbody><tr> 
  <td width="21" background="http://ovego.tv/images/12421152032.png" height="13"> 
@@ -19,7 +18,7 @@ layout: default
  <td width="21" background="http://ovego.tv/images/21210212120.png"> 
  </td> 
  <td> 
- <div id="media"><script type="text/javascript">swidth="600"; sheight="380";</script><script type="text/javascript" src="http://www.sawlive.tv/embedz/vtret2"></script></div>
+ <div id="media"></div>
 </td> 
  <td width="21" background="http://ovego.tv/images/203233451.png"> 
  </td> 
@@ -40,22 +39,3 @@ layout: default
 </center>
  </td></tr>
 </tbody></table>
-
-<h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-
-

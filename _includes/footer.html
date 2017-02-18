@@ -1,13 +1,13 @@
-<footer class="site-footer">
+<footer class="site-footer" style="background-color:#555753">
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <h2 class="footer-heading" style="color:#fff">{{ site.title | escape }}</h2>
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li>
+          <li style="color:#fff">
             {% if site.author %}
               {{ site.author | escape }}
             {% else %}
@@ -15,7 +15,7 @@
             {% endif %}
             </li>
             {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            <li><a style="color:#fff" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {% endif %}
         </ul>
       </div>

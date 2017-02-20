@@ -39,7 +39,9 @@ layout: default
 
 </center>
  </td></tr>
-</tbody></table>
+</tbody></table><div style="border:2px;border-color:#000;background-color:#555753;">
+<img src="/img/carma.svg" width="120" style="padding:8px;border:2px;"><img src="/img/carma.svg" width="120" style="padding:8px;border:2px;"><img src="/img/carma.svg" width="120" style="padding:8px;border:2px;">
+<img src="/img/carma.svg" width="120" style="padding:8px;border:2px;"><img src="/img/carma.svg" width="120" style="padding:8px;border:2px;border-color:#000"></div>
 
 <h1 class="page-heading">Posts</h1>
 
@@ -56,6 +58,9 @@ layout: default
   </ul>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<div style="border:2px;border-color:#000;background-color:#555753;">
+<img src="/img/carma.svg" width="120" style="padding:8px;border:2px;"><img src="/img/carma.svg" width="120" style="padding:8px;border:2px;"><img src="/img/carma.svg" width="120" style="padding:8px;border:2px;">
+<img src="/img/carma.svg" width="120" style="padding:8px;border:2px;"><img src="/img/carma.svg" width="120" style="padding:8px;border:2px;border-color:#000"></div>
 
 
 
